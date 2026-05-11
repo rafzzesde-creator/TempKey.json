@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "KONTOL GORENG",
     "background_color": "#FF0000"
   },
