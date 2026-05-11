@@ -7,19 +7,16 @@
   "credentials": [
     {
       "username": "user123",
-      "password": "pass123",
       "expire_date": "2026-06-30",
       "device_limit": 1
     },
     {
       "username": "vip_user",
-      "password": "vip_password",
       "expire_date": "2030-01-01",
       "device_limit": 3
     },
     {
       "username": "Rapz",
-      "password": "Rapz",
       "expire_date": "9999-99-99",
       "device_limit": 1
     }
