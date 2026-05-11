@@ -1,16 +1,28 @@
-[
-  {
-    "id": "5b84631ee3469e90",
-    "username": "rapzmods",
-    "password": "rapzganteng",
-    "expiresAt": "2030-12-31",
-    "allowOffline": true
+{
+  "maintenance": {
+    "enabled": false,
+    "background_color": "#FF0000",
+    "message": "The application is currently undergoing scheduled maintenance. We'll be back online soon."
   },
-  {
-    "id": "e9f44c8321271838",
-    "username": "UJICOBA",
-    "password": "MOD123",
-    "expiresAt": "2030-11-30",
-    "allowOffline": true
-  }
- ]
+  "credentials": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "build_id": "1.0",  
+      "expire_date": "2026-03-01",
+      "authorized_device_ids": [     
+        "88e99b0c741499cc",         
+        "4b85f2a10d9e8c44",   
+        "3ba4a93f018dc799",   
+        "UNKNOWN"                    
+      ]
+    },
+    {
+      "username": "client_key_1",
+      "password": "client_pass",
+      "build_id": "f5a6b7c8d9e0f1g2", 
+      "expire_date": "2025-11-20",
+      "authorized_device_ids": ["c4f3d2b1a0e9f8g7"] 
+    }
+  ]
+}
