@@ -1,28 +1,27 @@
 {
   "maintenance": {
     "enabled": false,
-    "background_color": "#FF0000",
-    "message": "The application is currently undergoing scheduled maintenance. We'll be back online soon."
+    "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
+    "background_color": "#FF0000"
   },
   "credentials": [
     {
-      "username": "admin",
-      "password": "admin",
-      "build_id": "1.0",  
-      "expire_date": "2026-03-01",
-      "authorized_device_ids": [     
-        "88e99b0c741499cc",         
-        "4b85f2a10d9e8c44",   
-        "3ba4a93f018dc799",   
-        "UNKNOWN"                    
-      ]
+      "username": "user123",
+      "password": "pass123",
+      "expire_date": "2026-06-30",
+      "device_limit": 1
+    },
+    {
+      "username": "vip_user",
+      "password": "vip_password",
+      "expire_date": "2030-01-01",
+      "device_limit": 3
     },
     {
       "username": "Rapz",
       "password": "Rapz",
-      "build_id": "5b84631ee3469e90", 
-      "expire_date": "9999-01-20",
-      "authorized_device_ids": ["5b84631ee3469e90"] 
+      "expire_date": "9999-99-99",
+      "device_limit": 1
     }
   ]
 }
