@@ -11,9 +11,9 @@
       "device_limit": 1
     },
     {
-      "username": "vip_user",
-      "expire_date": "2030-01-01",
-      "device_limit": 3
+      "username": "NC-02",
+      "expire_date": "2820-01-01",
+      "device_limit": 1
     },
     {
       "username": "NC-Rapz-01",
