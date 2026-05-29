@@ -6,13 +6,13 @@
   },
   "credentials": [
     {
-      "username": "user123",
-      "expire_date": "2026-06-30",
+      "username": "NC-03",
+      "expire_date": "2860-06-30",
       "device_limit": 1
     },
     {
       "username": "NC-02",
-      "expire_date": "2026-06-01",
+      "expire_date": "2670-06-01",
       "device_limit": 1
     },
     {
